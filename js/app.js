@@ -6,7 +6,7 @@ function iniciar(){
     /*if(user.value.log)*/
     if(user.value == "admin" && pass.value == "admin"){
         console.log("credenciales validas");
-        window.location = "app/indexadmi.html";
+        window.location = "Vista/perfil.html";
     }else{
         alert("usuario y/o contraseña incorrectos");
     }
