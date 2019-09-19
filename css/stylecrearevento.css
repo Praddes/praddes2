@@ -59,7 +59,7 @@ textarea {
 #contenedorbotones {
     
     position: absolute;
-    margin-left: 1100px;
+    margin-left: 1000px;
     
 
 }
@@ -67,4 +67,22 @@ textarea {
 .divevento{
     position:relative;
     left:40%;
+}
+
+.divpago{
+    position: relative;
+    left: 15%;
+}
+
+
+
+.input-group.md-form.form-sm.form-2 input {
+    border: 1px solid #bdbdbd;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+    }
+  
+.paquete{
+    margin-top: 10px;
+
 }
