@@ -1,2 +1,0 @@
-# praddes
-Prades Plataforma
