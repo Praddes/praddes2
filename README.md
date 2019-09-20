@@ -9,7 +9,7 @@ Anthony Ramos Camacho
 <br>
 Tomas Felipe Jimenez Medina
 <br>
-Kevin
+Kevin Alexander Hernandez Cardenas
 
 Programación Web <br>
 Ingenieria de sistemas <br>
