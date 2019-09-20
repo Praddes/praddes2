@@ -27,4 +27,4 @@ Registrar Pagos: https://tomasfjm.github.io/praddes/Vista/registrarpago.html <br
 Registro de Administradores: https://tomasfjm.github.io/praddes/Vista/registro.html <br>
 Ajustes de usuario:  https://tomasfjm.github.io/praddes/Vista/ajustes.html <br>
 Inicio Admin: https://tomasfjm.github.io/praddes/Vista/inicioadmin.html <br>
-Inicio Usuario: <b>En progreso...</b>
+Inicio Usuario: https://tomasfjm.github.io/praddes/Vista/iniciousuario.html
