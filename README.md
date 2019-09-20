@@ -1,7 +1,7 @@
 # praddes
 Praddes Plataforma
 --------------------------------------
-Plataforma unificada de gimnacios
+Plataforma unificada de gimnasios
 --------------------------------------
 
 Por:
