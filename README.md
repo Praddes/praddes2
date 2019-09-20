@@ -25,3 +25,4 @@ Perfil: https://tomasfjm.github.io/praddes/Vista/perfil.html <br>
 Registrar Clientes: https://tomasfjm.github.io/praddes/Vista/registrarcliente.html <br>
 Registrar Pagos: https://tomasfjm.github.io/praddes/Vista/registrarpago.html <br>
 Registro de Administradores: https://tomasfjm.github.io/praddes/Vista/registro.html <br>
+Ajustes de usuario:  https://tomasfjm.github.io/praddes/Vista/ajustes.html
